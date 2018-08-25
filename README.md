@@ -5,7 +5,7 @@ This is a synchronizer repository for ethereum and postgreSQL and its web UI.
 # Prerequisite
 1. PostgreSQL
 2. running Ethereum private network
-3. 
+3. Glassfish
 
 NOTE: YOU MUST MODIFY RELAVENT INFORMATION IN SOURCE CODES FOR RUNNING
 (e.g. PostgreSQL login info, ethereum net's ip / port info, etc)
@@ -19,4 +19,4 @@ You could run synchronizer as followings
 python sync.py
 ```
 
-That's all. Have fun!
+That's all. Have fun w/ UI!

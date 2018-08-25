@@ -8,6 +8,7 @@ This is a synchronizer repository for ethereum and postgreSQL and its web UI.
 3. Glassfish
 
 NOTE: YOU MUST MODIFY RELAVENT INFORMATION IN SOURCE CODES FOR RUNNING
+
 (e.g. PostgreSQL login info, ethereum net's ip / port info, etc)
 
 # How To
